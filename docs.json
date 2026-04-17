@@ -6,16 +6,17 @@
     "primary": "#0D9373"
   },
   "navigation": {
-    "tabs": [
+    "versions": [
       {
-        "tab": "Untitled Tab",
-        "groups": [
+        "version": "Untitled Tab",
+        "pages": [
           {
             "group": "Getting Started",
             "pages": [
               "get-started"
             ]
-          }
+          },
+          "index"
         ]
       }
     ]
