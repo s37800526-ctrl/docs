@@ -6,18 +6,8 @@
     "primary": "#0D9373"
   },
   "navigation": {
-    "products": [
-      {
-        "product": "Untitled Tab",
-        "pages": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "get-started"
-            ]
-          }
-        ]
-      }
+    "pages": [
+      "untitled-page"
     ]
   }
 }
