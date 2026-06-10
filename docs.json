@@ -10,29 +10,10 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      },
-      "untitled-page"
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+      "untitled-page",
+      "Purchasing",
+      "Product_Transfer"
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
